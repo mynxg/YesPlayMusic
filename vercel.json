@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-mynxg.vercel.app/:match*"
+      "destination": "http://139.224.55.130:3000/:match*"
     }
   ]
 }
