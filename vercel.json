@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://nxgapi.yct.ee/:match*"
+      "destination": "https://netease-cloud-music-api-mynxg.vercel.app/:match*"
     }
   ]
 }
